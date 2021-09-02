@@ -10,21 +10,29 @@
 
 #### On the pictures of message boxes below we can see the comparison run tme of the script before and after refactoring was done for both 2017 and 2018 data.  After refactoring by adding a ticker index, the processing times are significantly faster.
 
-#### **Result BEFORE Refactor 2017**
+#### **Run time BEFORE Refactor 2017**
 
-![Result BEFORE Refactor 2017](Resources/2017_Not_Refactored.png) 
+![Time BEFORE Refactor 2017](Resources/2017_Not_Refactored.png) 
 
-#### **Result AFTER Refactor 2017**
+#### **Run time AFTER Refactor 2017**
 
-![Result AFTER Refactor 2017](Resources/VBA_Challenge_2017.png) 
+![Time AFTER Refactor 2017](Resources/VBA_Challenge_2017.png) 
 
-#### **Result BEFORE Refactor 2018**
+#### **2017 Result**
 
-![Result BEFORE Refactor 2018](Resources/2018_Not_Refactored.png) 
+![Result 2017](Resources/2017_Result.png)
 
-#### **Result AFTER Refactor 2018**
+#### **Run time BEFORE Refactor 2018**
 
-![Result AFTER Refactor 2018](Resources/VBA_Challenge_2018.png) 
+![Time BEFORE Refactor 2018](Resources/2018_Not_Refactored.png) 
+
+#### **Run time AFTER Refactor 2018**
+
+![Time AFTER Refactor 2018](Resources/VBA_Challenge_2018.png) 
+
+#### **2018 Result**
+
+![Result 2018](Resources/2018_Result.png)
 
 #### Below are some of the codes that show how the indexing was done.  Complete VBA codes can be seen in the excel file.
 
